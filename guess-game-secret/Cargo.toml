@@ -1,0 +1,8 @@
+[package]
+name = "guess-game-secret"
+version = "0.1.0"
+authors = ["BALAJI"]
+
+[dependencies]
+
+rand = "0.3.14"
